@@ -43,8 +43,8 @@ button {
 }
 
 .product-container {
-    margin: 15px;
-    padding: 2px 16px;
+    margin: 150px;
+    padding: 20px 160px;
     position: relative;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
     background-color: white;
